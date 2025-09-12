@@ -4,7 +4,7 @@
 
 Raw data stats for the various ZEvent editions.
 
-ZEvent is an annual charity event in which many french streamers participate.
+[ZEvent](https://fr.wikipedia.org/wiki/ZEvent) is an annual charity event in which many french streamers participate.
 
 More information about it can be found on [zevent.fr](https://zevent.fr).
 
