@@ -1,10 +1,10 @@
-# 💚 zevent-stats
+# 💚 ZEvent Stats
 
 ![logo](./assets/logo-2025.png)
 
-Raw data stats for the various Zevent editions.
+Raw data stats for the various ZEvent editions.
 
-Zevent is an annual charity event in which many french streamers participate.
+ZEvent is an annual charity event in which many french streamers participate.
 
 More information about it can be found on [zevent.fr](https://zevent.fr).
 
