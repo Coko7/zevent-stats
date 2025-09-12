@@ -1,6 +1,10 @@
 # 💚 ZEvent Stats
 
-![logo](./assets/logo-2025.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-2025-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/logo-2025-light.png">
+  <img alt="Default logo" src="./assets/logo.png">
+</picture>
 
 Raw data stats for the various ZEvent editions.
 
